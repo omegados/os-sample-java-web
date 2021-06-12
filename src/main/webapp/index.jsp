@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World with OpenShift!</h2>
+<h1>Cambios en código fuente</h1>
+<h2>Hola desde Openshift!</h2>
 </body>
 </html>
