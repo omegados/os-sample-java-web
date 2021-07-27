@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Cambios en código fuente (Merge)</h1>
-<h2>Hola desde Openshift! y van 8!!</h2>
+<h1>Repaso para el examen</h1>
+<h2>Hola desde Openshift! y van nosecuantas!!</h2>
 </body>
 </html>
